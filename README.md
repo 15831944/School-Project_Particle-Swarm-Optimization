@@ -10,4 +10,5 @@ This program simulates the process which finding the best solution of the Ackley
 * Social influence : (Dedault) 0.5
 * Group size : (Dedault) 10
 * Termination condition : (Dedault) 0.000001
+
 ![image](img/config.PNG)
